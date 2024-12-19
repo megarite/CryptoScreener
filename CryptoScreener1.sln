@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CryptoScreener1", "CryptoScreener1\CryptoScreener1.csproj", "{39486A15-1A5F-463E-A3B4-0538E10FCFF4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject1", "UnitTestProject1\UnitTestProject1.csproj", "{51C28B75-0DB0-4389-A7AA-82CB0DCF731E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{39486A15-1A5F-463E-A3B4-0538E10FCFF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39486A15-1A5F-463E-A3B4-0538E10FCFF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39486A15-1A5F-463E-A3B4-0538E10FCFF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39486A15-1A5F-463E-A3B4-0538E10FCFF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51C28B75-0DB0-4389-A7AA-82CB0DCF731E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51C28B75-0DB0-4389-A7AA-82CB0DCF731E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51C28B75-0DB0-4389-A7AA-82CB0DCF731E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51C28B75-0DB0-4389-A7AA-82CB0DCF731E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {014F3343-611B-4F21-AF17-622682FB7EBC}
+	EndGlobalSection
+EndGlobal
